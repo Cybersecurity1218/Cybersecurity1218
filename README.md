@@ -1,5 +1,5 @@
 # Hello, I'm CyberDude
-<a href="https://linkedin.com"><img src="www.linkedin.com/in/harisali-cyberdude" /></a>
+<a href="https://linkedin.com/in/harisali-cyberdude"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
